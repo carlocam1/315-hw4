@@ -1,0 +1,15 @@
+{
+  "name": "315-hw4",
+  "version": "1.0.0",
+  "description": "Homework 4, form examples.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server"
+  },
+  "author": "Carlos Ocampo",
+  "license": "ISC"
+}
